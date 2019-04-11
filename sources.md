@@ -8,5 +8,8 @@ https://fontlibrary.org/en/search?license=OFL%20(SIL%20Open%20Font%20License)&or
 
 https://fonts.google.com/
 
+https://www.fontsc.com/
+
+https://www.1001fonts.com/search.html?search=OFL&x=0&y=0
 
 Good example of credit/attribution: https://fonts.google.com/attribution
