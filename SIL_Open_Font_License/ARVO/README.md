@@ -1,4 +1,4 @@
-![Arvo](https://github.com/xyberviri/FreeFontsForGameDevs/tree/master/SIL_Open_Font_License/ARVO/arvo.jpeg)
+![Arvo](https://github.com/xyberviri/FreeFontsForGameDevs/blob/master/SIL_Open_Font_License/ARVO/Arvo.jpg)
 
 Arvo by Anton Koovit http://files.korkork.com/
 
