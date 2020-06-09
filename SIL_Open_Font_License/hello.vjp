@@ -1,0 +1,42 @@
+import com.ms.wfc.app.*;
+ import com.ms.wfc.core.*;
+ import com.ms.wfc.ui.*;
+ import com.ms.wfc.html.*;
+
+
+ public class Form1 extends Form
+ {
+ 	public Form1()
+ 	{
+ 		initForm();
+
+ 	}
+
+
+ 	public void dispose()
+ 	{
+ 		super.dispose();
+ 		components.dispose();
+ 	}
+
+
+ 	Container components = new Container();
+
+
+ 	private void initForm()
+ 	{
+ 		this.setText("Form1");
+ 		this.setAutoScaleBaseSize(new Point(5, 13));
+ 		this.setClientSize(new Point(292, 273));
+ 		this.addOnClick(new EventHandler(this.Form1_click));
+
+
+ 		MessageBox.show("Hello, world");
+ 	}
+
+
+ 	public static void main(String args[])
+ 	{
+ 		Application.run(new Form1());
+ 	}
+ }
