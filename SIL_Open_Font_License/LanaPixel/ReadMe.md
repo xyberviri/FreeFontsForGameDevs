@@ -1,3 +1,5 @@
+(Please note that 1st person refferences in this file are those of the original creator of LanaPixel and not that of the maintainer of this respository. No Credit is being claimed.)
+
 LanaPixel
 ===============
 A font for localizing pixel art games
@@ -79,5 +81,3 @@ tl;dr:
 	- If you include the font file with your project, you must also include the copyright notice and license. Both are included in LanaPixel_License.txt, so just toss it in with the rest of your licence files and you're all set. I'm not going to be strict about this bit, just don't be a dick and don't claim others' work as your own.
 	- Aside from this requirement, crediting me (eishiya) in your game is completely optional.
 - You *cannot* sell this font on its own, even if you have modified it.
-
-This file was downloaded from https://drive.google.com/drive/folders/1lR6ys6YzvbVk_gTQ9NjRkWkQcyqMkl5O
